@@ -16,9 +16,7 @@
 title: Patrick Mutwiri
 email: dev@patric.xyz
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Patrick Mutwiri is a full-stack Software Developer, currently living in Nairobi. I'm constantly experimenting with new technologies and I love it. I basically develop customer-centric problem-based solutions/softwares.
 twitter_username: patric_mutwiri
 github_username: patricmutwiri
 minimal_mistakes_skin: default
@@ -31,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Africa/Nairobi
 
 include:
   - _pages
